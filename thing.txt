@@ -1,0 +1,6 @@
+SUCCESS: The process "MEMZ.exe" with PID 5912 has been terminated.
+SUCCESS: The process "MEMZ.exe" with PID 3680 has been terminated.
+SUCCESS: The process "MEMZ.exe" with PID 3808 has been terminated.
+SUCCESS: The process "MEMZ.exe" with PID 2060 has been terminated.
+SUCCESS: The process "MEMZ.exe" with PID 2036 has been terminated.
+SUCCESS: The process "MEMZ.exe" with PID 1204 has been terminated.

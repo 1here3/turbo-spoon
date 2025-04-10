@@ -1,0 +1,10 @@
+@echo off
+
+start cmd.exe
+timeout 1
+start msedge.exe
+timeout 1
+
+
+
+
